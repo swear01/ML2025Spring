@@ -1,0 +1,1 @@
+根據搜尋結果，若要使用A100高級GPU，不需要訂閱「Colab Pro+」，而是可以直接在Google Colaboratory的免費版中選擇T4或其他可用的 GPU。

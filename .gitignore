@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+HW1/Qwen2.5-14B-Instruct-IQ4_XS.gguf
+HW1/DeepSeek-R1-Distill-Qwen-14B-IQ4_XS.gguf
+HW1/Meta-Llama-3.1-8B-Instruct-Q8_0.gguf

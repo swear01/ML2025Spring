@@ -1,0 +1,1 @@
+CFS 使用了 `struct task_struct` 來儲存排程相關資訊。
